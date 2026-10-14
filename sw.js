@@ -1,7 +1,7 @@
 /* Service Worker – Dattelfarm Bahariya
    Speichert die App beim ersten Öffnen im Gerät, danach läuft sie ohne Internet.
    Bei jeder neuen App-Version VERSION hochzählen, damit die Geräte aktualisieren. */
-const VERSION = "df-v5";
+const VERSION = "df-v6";
 const CORE = [
   "./",
   "./index.html",
